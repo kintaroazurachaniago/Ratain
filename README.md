@@ -34,7 +34,8 @@ Kita bisa ratain ketiga objet diatas pake fungsi ratain.
 - sisi harus string 'kiri' atau 'tengah' atau 'kanan'
 - posisi harus string 'kiri' atau 'tengah' atau 'kanan'
 - sekat harus string
-- Rata kiri
+
+###Rata kiri
 
 **Code**
 
@@ -65,7 +66,7 @@ console.log(diratain)
 : Most Loved       : Indonesia
 ```
 
-> Rata tengah
+###Rata tengah
 
 **Code**
 
@@ -96,7 +97,7 @@ console.log(diratain)
                       Most Loved : Indonesia
 ```
 
-> Rata kanan
+###Rata kanan
 
 **Code**
 
