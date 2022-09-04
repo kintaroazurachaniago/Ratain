@@ -41,10 +41,8 @@ Kita bisa ratain ketiga objet diatas pake fungsi ratain.
 
 ```Javascript
 console.clear()
-
 const objekDigabungin = Object.assign(asean1, asean2, note)
 const diratain        = ratain(objekDigabungin, 'kiri', 'kiri', ':')
-
 console.log(diratain)
 ```
 
@@ -72,10 +70,8 @@ console.log(diratain)
 
 ```Javascript
 console.clear()
-
 const objekDigabungin = Object.assign(asean1, asean2, note)
 const diratain        = ratain(objekDigabungin, 'tengah', 'tengah', ':')
-
 console.log(diratain)
 ```
 
@@ -103,10 +99,8 @@ console.log(diratain)
 
 ```Javascript
 console.clear()
-
 const objekDigabungin = Object.assign(asean1, asean2, note)
 const diratain        = ratain(objekDigabungin, 'kanan', 'kanan', ':')
-
 console.log(diratain)
 ```
 
