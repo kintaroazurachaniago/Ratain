@@ -3,7 +3,7 @@ Fungsi yang bisa mengubah object menjadi string yang diratain, diposisiin, dan d
 
 ## Penggunaan
 
-> Misal nya kita punya data berikut ini
+Misal nya kita punya data berikut ini
 
 ```Javascript
 const [asean1, asean2, note] = [
@@ -28,7 +28,7 @@ const [asean1, asean2, note] = [
 
 Kita bisa ratain ketiga objet diatas pake fungsi ratain.
 
-> ratain(data, sisi, posisi, sekat)
+> *ratain(data, sisi, posisi, sekat)*
 
 - data harus objek
 - sisi harus string 'kiri' atau 'tengah' atau 'kanan'
